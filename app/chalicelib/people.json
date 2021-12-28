@@ -1,0 +1,704 @@
+{
+    "bill-gates": [
+        {
+            "title": "Sapiens",
+            "slug": "sapiens",
+            "author": "Yuval Noah Harari",
+            "recommended_by": [
+                "Ray Dalio",
+                "Mark Zuckerberg",
+                "Reid Hoffman",
+                "Joe Rogan",
+                "Naval Ravikant"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ed45080e068ba5e8bb57b0a_41lolL22gL._SX314_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/sapiens-brief-history",
+            "amzn": "https://www.amazon.com/s?k=Sapiens%20Yuval%20Noah%20Harari"
+        },
+        {
+            "title": "Shoe Dog",
+            "slug": "shoe-dog",
+            "author": "Phil Knight",
+            "recommended_by": [
+                "Tobi Lutke",
+                "Warren Buffett",
+                "Tim Cook",
+                "Alexis Ohanian",
+                "Jason Calacanis"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5efe5e81d8b5940ae39078a4_51yDI-SlwFL._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/shoe-dog-nike",
+            "amzn": "https://www.amazon.com/s?k=Shoe%20Dog%20Phil%20Knight"
+        },
+        {
+            "title": "The Ride of a Lifetime",
+            "slug": "the-ride-of-a-lifetime",
+            "author": "Bob Iger",
+            "recommended_by": [
+                "Brian Chesky",
+                "Alexis Ohanian",
+                "Karlie Kloss",
+                "Tim Ferriss",
+                "Jason Calacanis"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f033c228f4ce2399d53eab6_41FTzLPRt2L._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/ride-of-a-lifetime",
+            "amzn": "https://www.amazon.com/s?k=The%20Ride%20of%20a%20Lifetime%20Bob%20Iger"
+        },
+        {
+            "title": "When Breath Becomes Air",
+            "slug": "when-breath-becomes-air",
+            "author": "Paul Kalanithi",
+            "recommended_by": [
+                "Tim Cook",
+                "Melinda Gates",
+                "Anthony Pompliano",
+                "Patrick O'Shaughnessy",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ed695b2d34a1df3b7cea6a2_41csVfG7xxL._SX337_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/breath-becomes-air",
+            "amzn": "https://www.amazon.com/s?k=When%20Breath%20Becomes%20Air%20Paul%20Kalanithi"
+        },
+        {
+            "title": "Homo Deus",
+            "slug": "homo-deus",
+            "author": "Yuval Noah Harari",
+            "recommended_by": [
+                "Naval Ravikant",
+                "Raoul Pal",
+                "Vinod Khosla",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5efa6317d33322187c656543_41FYAMRN6TL._SX331_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/homo-deus-harari",
+            "amzn": "https://www.amazon.com/s?k=Homo%20Deus%20Yuval%20Noah%20Harari"
+        },
+        {
+            "title": "The Rise And Fall Of American Growth",
+            "slug": "the-rise-and-fall-of-american-growth",
+            "author": "Robert J. Gordon",
+            "recommended_by": [
+                "Patrick Collison",
+                "Stewart Butterfield",
+                "Satya Nadella",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ed2535128262c553853761e_the-rise-and-fall-of-american-growth.jpeg",
+            "genius_link": "https://geni.us/MUvbky",
+            "amzn": "https://www.amazon.com/s?k=The%20Rise%20And%20Fall%20Of%20American%20Growth%20Robert%20J.%20Gordon"
+        },
+        {
+            "title": "The Moment of Lift",
+            "slug": "the-moment-of-lift",
+            "author": "Melinda Gates",
+            "recommended_by": [
+                "Warren Buffett",
+                "Melinda Gates",
+                "Satya Nadella",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ed695a8cf157fe5e00e2df3_41W9YpbHNbL._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/moment-of-lift",
+            "amzn": "https://www.amazon.com/s?k=The%20Moment%20of%20Lift%20Melinda%20Gates"
+        },
+        {
+            "title": "Mindset",
+            "slug": "mindset",
+            "author": "Carol Dweck",
+            "recommended_by": [
+                "Tobi Lutke",
+                "Tony Robbins",
+                "Satya Nadella",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f0a288db067d04342661097_41vS70Qo3rL._SX327_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/mindset-psychology",
+            "amzn": "https://www.amazon.com/s?k=Mindset%20Carol%20Dweck"
+        },
+        {
+            "title": "Why We Sleep",
+            "slug": "why-we-sleep",
+            "author": "Matthew Walker",
+            "recommended_by": [
+                "Alexis Ohanian",
+                "Michael Mauboussin",
+                "Vinod Khosla",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5efe58d3a823634111db36fd_51dUdCh2ZdL._SX326_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/why-we-sleep-walker",
+            "amzn": "https://www.amazon.com/s?k=Why%20We%20Sleep%20Matthew%20Walker"
+        },
+        {
+            "title": "Range: Why Generalists Triumph in a Specialized World",
+            "slug": "range-why-generalists-triumph-in-a-specialized-world",
+            "author": "David Epstein",
+            "recommended_by": [
+                "Changpeng Zhao",
+                "Michael Mauboussin",
+                "Vinod Khosla",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f2ae953b1418c2f073aa9fc_41-nFxo5yTL._SX333_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/range-epstein",
+            "amzn": "https://www.amazon.com/s?k=Range%3A%20Why%20Generalists%20Triumph%20in%20a%20Specialized%20World%20David%20Epstein"
+        },
+        {
+            "title": "Bad Blood",
+            "slug": "bad-blood",
+            "author": "John Carreyrou",
+            "recommended_by": [
+                "Bill Gurley",
+                "Michael Mauboussin",
+                "Andrew Wilkinson",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f2457c73bfb8538e64fbf3c_41r-oFRk-GL._SX322_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/bad-blood-sv",
+            "amzn": "https://www.amazon.com/s?k=Bad%20Blood%20John%20Carreyrou"
+        },
+        {
+            "title": "Measure What Matters",
+            "slug": "measure-what-matters",
+            "author": "John Doerr",
+            "recommended_by": [
+                "Sheryl Sandberg",
+                "Reid Hoffman",
+                "Larry Page",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ed69b474f4bd1015f5a7a0a_51G-XiecxvL._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/measure-what-matters",
+            "amzn": "https://www.amazon.com/s?k=Measure%20What%20Matters%20John%20Doerr"
+        },
+        {
+            "title": "Hillbilly Elegy",
+            "slug": "hillbilly-elegy",
+            "author": "J.D. Vance",
+            "recommended_by": [
+                "Jason Calacanis",
+                "Stewart Butterfield",
+                "Max Levchin",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f0e56aa3724dd1b6bf0b369_51HFceJnaCL._SX330_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/hillbilly-elegy",
+            "amzn": "https://www.amazon.com/s?k=Hillbilly%20Elegy%20J.D.%20Vance"
+        },
+        {
+            "title": "Factfulness",
+            "slug": "factfulness",
+            "author": "Hans Rosling",
+            "recommended_by": [
+                "Howard Marks",
+                "Melinda Gates",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5eefffad14d3f39cab767466_51tvugRSHKL._SX322_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/factfulness-rosling",
+            "amzn": "https://www.amazon.com/s?k=Factfulness%20Hans%20Rosling"
+        },
+        {
+            "title": "21 Lessons for the 21st Century",
+            "slug": "21-lessons-for-the-21st-century",
+            "author": "Yuval Noah Harari",
+            "recommended_by": [
+                "Joe Rogan",
+                "Vinod Khosla",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5eea1ca5c81380696dd3c447_41uVWlucWL.jpeg",
+            "genius_link": "https://geni.us/21-lessons",
+            "amzn": "https://www.amazon.com/s?k=21%20Lessons%20for%20the%2021st%20Century%20Yuval%20Noah%20Harari"
+        },
+        {
+            "title": "The Sympathizer",
+            "slug": "the-sympathizer",
+            "author": "Viet Thanh Nguyen",
+            "recommended_by": [
+                "Max Levchin",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5fff12ce8f57751c5d360586_51U33Tf8NL.jpeg",
+            "genius_link": "https://geni.us/the-sympathizer",
+            "amzn": "https://www.amazon.com/s?k=The%20Sympathizer%20Viet%20Thanh%20Nguyen"
+        },
+        {
+            "title": "The Spy and The Traitor",
+            "slug": "the-spy-and-the-traitor",
+            "author": "Ben Macintyre",
+            "recommended_by": [
+                "Casey Neistat",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/60052b0ec2e0e3c655161963_51bCiaJcnmL._SX322_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/spy-traitor",
+            "amzn": "https://www.amazon.com/s?k=The%20Spy%20and%20The%20Traitor%20Ben%20Macintyre"
+        },
+        {
+            "title": "Business Adventures",
+            "slug": "business-adventures",
+            "author": "John Brooks",
+            "recommended_by": [
+                "Warren Buffett",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ffce915ae3da92f12a36975_51ZXbgG0YJL.jpeg",
+            "genius_link": "https://geni.us/business-adventures",
+            "amzn": "https://www.amazon.com/s?k=Business%20Adventures%20John%20Brooks"
+        },
+        {
+            "title": "The Future of Capitalism",
+            "slug": "the-future-of-capitalism",
+            "author": "Paul Collier",
+            "recommended_by": [
+                "Vinod Khosla",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6004a26fe7ebc62e639928a2_41-20h3Hy6L._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/future-capitalism",
+            "amzn": "https://www.amazon.com/s?k=The%20Future%20of%20Capitalism%20Paul%20Collier"
+        },
+        {
+            "title": "The Box",
+            "slug": "the-box",
+            "author": "Marc Levinson",
+            "recommended_by": [
+                "Tobi Lutke",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f0a28a6c86c8021222f9e35_51UFg6lHbgL._SX322_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/the-box",
+            "amzn": "https://www.amazon.com/s?k=The%20Box%20Marc%20Levinson"
+        },
+        {
+            "title": "Stress Test",
+            "slug": "stress-test",
+            "author": "Timothy Geithner",
+            "recommended_by": [
+                "Warren Buffett",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ffce90c31da0c7ed9952629_51cCKkpTeL._SX334_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/stress-test",
+            "amzn": "https://www.amazon.com/s?k=Stress%20Test%20Timothy%20Geithner"
+        },
+        {
+            "title": "I Contain Multitudes",
+            "slug": "i-contain-multitudes",
+            "author": "Ed Yong",
+            "recommended_by": [
+                "Michael Mauboussin",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f874c80cdcfa2bae399dcad_51EGX0zBe1L._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/i-contain-multitudes",
+            "amzn": "https://www.amazon.com/s?k=I%20Contain%20Multitudes%20Ed%20Yong"
+        },
+        {
+            "title": "Energy And Civilization",
+            "slug": "energy-and-civilization",
+            "author": "Vaclav Smil",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a57323e24233fe3b06a3_71ej369YA7L.jpeg",
+            "genius_link": "https://geni.us/IgR1Lcr",
+            "amzn": "https://www.amazon.com/s?k=Energy%20And%20Civilization%20Vaclav%20Smil"
+        },
+        {
+            "title": "Lincoln In The Bardo",
+            "slug": "lincoln-in-the-bardo",
+            "author": "George Saunders",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a568d7bdff0a0473c725_A1jHdH7lMXL.jpeg",
+            "genius_link": "https://geni.us/uoL5x",
+            "amzn": "https://www.amazon.com/s?k=Lincoln%20In%20The%20Bardo%20George%20Saunders"
+        },
+        {
+            "title": "Making The Modern World",
+            "slug": "making-the-modern-world",
+            "author": "Vaclav Smil",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174ab3afd8fb1cbdc90f671_41JM9yUmmpL._SX346_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/8XAm",
+            "amzn": "https://www.amazon.com/s?k=Making%20The%20Modern%20World%20Vaclav%20Smil"
+        },
+        {
+            "title": "Blueprint: the Evolutionary Origins of a Good Society",
+            "slug": "blueprint-the-evolutionary-origins-of-a-good-society",
+            "author": "Nicholas A. Christakis",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a0e98da57131e6a043e5_51MyrCGIQbL._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/kkfIx",
+            "amzn": "https://www.amazon.com/s?k=Blueprint%3A%20the%20Evolutionary%20Origins%20of%20a%20Good%20Society%20Nicholas%20A.%20Christakis"
+        },
+        {
+            "title": "Epic Measures",
+            "slug": "epic-measures",
+            "author": "Jermey N. Smith",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174aafeeff78652e40ba7b5_y648.jpeg",
+            "genius_link": "https://geni.us/e1wmv",
+            "amzn": "https://www.amazon.com/s?k=Epic%20Measures%20Jermey%20N.%20Smith"
+        },
+        {
+            "title": "Nine Pints",
+            "slug": "nine-pints",
+            "author": "Rose George",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a0f42a1d6637e350a5b3_81YMi9g65YL.jpeg",
+            "genius_link": "https://geni.us/MCJwv",
+            "amzn": "https://www.amazon.com/s?k=Nine%20Pints%20Rose%20George"
+        },
+        {
+            "title": "Hyperbole and a Half",
+            "slug": "hyperbole-and-a-half",
+            "author": "Allie Brosh",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174ab06464286b24a9a5d24_81YslPMt0OL.jpeg",
+            "genius_link": "https://geni.us/a6Fr7l",
+            "amzn": "https://www.amazon.com/s?k=Hyperbole%20and%20a%20Half%20Allie%20Brosh"
+        },
+        {
+            "title": "Educated",
+            "slug": "educated",
+            "author": "Tara Westover",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a0f76cb2b359311e0561_35133922._UY2850_SS2850_.jpeg",
+            "genius_link": "https://geni.us/s4EyJnW",
+            "amzn": "https://www.amazon.com/s?k=Educated%20Tara%20Westover"
+        },
+        {
+            "title": "Leonardo Da Vinci",
+            "slug": "leonardo-da-vinci",
+            "author": "Walter Isaacson",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a55862429d4e93fb78f7_91olmCLoVuL.jpeg",
+            "genius_link": "https://geni.us/yoHF",
+            "amzn": "https://www.amazon.com/s?k=Leonardo%20Da%20Vinci%20Walter%20Isaacson"
+        },
+        {
+            "title": "Believe Me",
+            "slug": "believe-me",
+            "author": "Eddie Izzard",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a56f751233025927767f_91DYk305RpL.jpeg",
+            "genius_link": "https://geni.us/ercG",
+            "amzn": "https://www.amazon.com/s?k=Believe%20Me%20Eddie%20Izzard"
+        },
+        {
+            "title": "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress",
+            "slug": "enlightenment-now-the-case-for-reason-science-humanism-and-progress",
+            "author": "Steven Pinker",
+            "recommended_by": [
+                "Michael Mauboussin",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f8653109a8f5a3cf4342bb6_51baoEVDKJL._SX327_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/enlightenment-now",
+            "amzn": "https://www.amazon.com/s?k=Enlightenment%20Now%3A%20The%20Case%20for%20Reason%2C%20Science%2C%20Humanism%2C%20and%20Progress%20Steven%20Pinker"
+        },
+        {
+            "title": "An American Marriage",
+            "slug": "an-american-marriage",
+            "author": "Tayari Jones",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/61749945b5d48f3600a172b2_A1lv5iJLxEL.jpeg",
+            "genius_link": "https://geni.us/oV3z",
+            "amzn": "https://www.amazon.com/s?k=An%20American%20Marriage%20Tayari%20Jones"
+        },
+        {
+            "title": "Eradication",
+            "slug": "eradication",
+            "author": "Nancy Leys Stepan",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174aafaf6614550ea05d3dc_192390.jpeg",
+            "genius_link": "https://geni.us/DFkYA0Q",
+            "amzn": "https://www.amazon.com/s?k=Eradication%20Nancy%20Leys%20Stepan"
+        },
+        {
+            "title": "On Immunity",
+            "slug": "on-immunity",
+            "author": "Eula Biss",
+            "recommended_by": [
+                "Mark Zuckerberg",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ed19e86c5c3a7187f11929c_418YDdkorRL._SX331_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/on-immunity",
+            "amzn": "https://www.amazon.com/s?k=On%20Immunity%20Eula%20Biss"
+        },
+        {
+            "title": "Origin Story",
+            "slug": "origin-story",
+            "author": "David Christian",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a55b781b1118fc18b8a9_39306535._SY475_.jpeg",
+            "genius_link": "https://geni.us/6NzA",
+            "amzn": "https://www.amazon.com/s?k=Origin%20Story%20David%20Christian"
+        },
+        {
+            "title": "Poor Numbers",
+            "slug": "poor-numbers",
+            "author": "Morten Jerven",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174ab4b1930b84c1c71ad28_51whed2NoRL._SX331_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/Cfle",
+            "amzn": "https://www.amazon.com/s?k=Poor%20Numbers%20Morten%20Jerven"
+        },
+        {
+            "title": "Born a Crime",
+            "slug": "born-a-crime",
+            "author": "Trevor Noah",
+            "recommended_by": [
+                "Melinda Gates",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f025c342c3884bf71014749_5102ogTDCGL.jpeg",
+            "genius_link": "https://geni.us/born-a-crime",
+            "amzn": "https://www.amazon.com/s?k=Born%20a%20Crime%20Trevor%20Noah"
+        },
+        {
+            "title": "Everything Happens For a Reason",
+            "slug": "everything-happens-for-a-reason",
+            "author": "Kate Bowler",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a55fb3141546a7c2c593_91QOtobQ8rL.jpeg",
+            "genius_link": "https://geni.us/4sM7",
+            "amzn": "https://www.amazon.com/s?k=Everything%20Happens%20For%20a%20Reason%20Kate%20Bowler"
+        },
+        {
+            "title": "Prepared",
+            "slug": "prepared",
+            "author": "Diane Tavenner",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/61749942b5d48fedafa172aa_71DfUJCq2-L.jpeg",
+            "genius_link": "https://geni.us/NXjsBlO",
+            "amzn": "https://www.amazon.com/s?k=Prepared%20Diane%20Tavenner"
+        },
+        {
+            "title": "Evicted",
+            "slug": "evicted",
+            "author": "Matthew Desmond",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a594df0f79415d170efe_81MIqIDFPkL.jpeg",
+            "genius_link": "https://geni.us/FqbQ",
+            "amzn": "https://www.amazon.com/s?k=Evicted%20Matthew%20Desmond"
+        },
+        {
+            "title": "Presidents of War",
+            "slug": "presidents-of-war",
+            "author": "Michael Beschloss",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a0f1751233379027750a_81wMLAMC0jL.jpeg",
+            "genius_link": "https://geni.us/XPCKGCF",
+            "amzn": "https://www.amazon.com/s?k=Presidents%20of%20War%20Michael%20Beschloss"
+        },
+        {
+            "title": "A Full Life: Reflections at Ninety",
+            "slug": "a-full-life-reflections-at-ninety",
+            "author": "Jimmy Carter",
+            "recommended_by": [
+                "Richard Branson",
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f207daf35e8747d05021eb3_41xtnMUSfGL._SX329_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/full-life",
+            "amzn": "https://www.amazon.com/s?k=A%20Full%20Life%3A%20Reflections%20at%20Ninety%20Jimmy%20Carter"
+        },
+        {
+            "title": "Army Of None",
+            "slug": "army-of-none",
+            "author": "Paul Scharre",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a54fe2b6f970576233cd_71v4tUITAxL.jpeg",
+            "genius_link": "https://geni.us/qAPUEU",
+            "amzn": "https://www.amazon.com/s?k=Army%20Of%20None%20Paul%20Scharre"
+        },
+        {
+            "title": "Breath From Salt",
+            "slug": "breath-from-salt",
+            "author": "Bijal P. Trivedi",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/617499324376e69edfae7825_breath-from-salt.jpeg",
+            "genius_link": "https://geni.us/ObHLLp8",
+            "amzn": "https://www.amazon.com/s?k=Breath%20From%20Salt%20Bijal%20P.%20Trivedi"
+        },
+        {
+            "title": "Reinventing American Health Care",
+            "slug": "reinventing-american-health-care",
+            "author": "Ezekiel J. Emanuel",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174ab31b314150b2bc2c799_51Nv59PnIwL._SX323_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/47c0Cd",
+            "amzn": "https://www.amazon.com/s?k=Reinventing%20American%20Health%20Care%20Ezekiel%20J.%20Emanuel"
+        },
+        {
+            "title": "Good Economics For Hard Times",
+            "slug": "good-economics-for-hard-times",
+            "author": "Abhijit V. Banerjee & Esther Duflo",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174993add2c4b1d65effeba_51014619._SX318_SY475_.jpeg",
+            "genius_link": "https://geni.us/Klgfu8q",
+            "amzn": "https://www.amazon.com/s?k=Good%20Economics%20For%20Hard%20Times%20Abhijit%20V.%20Banerjee%20%26%20Esther%20Duflo"
+        },
+        {
+            "title": "Seveneves",
+            "slug": "seveneves",
+            "author": "Neal Stephenson",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174a583859720e57831e40b_41cNn3RO7L.jpeg",
+            "genius_link": "https://geni.us/VF2856",
+            "amzn": "https://www.amazon.com/s?k=Seveneves%20Neal%20Stephenson"
+        },
+        {
+            "title": "Growth",
+            "slug": "growth",
+            "author": "Vaclav Smil",
+            "recommended_by": [
+                "Bill Gates"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/6174993e38206f82bd69a1e5_71tqWPBSrnL.jpeg",
+            "genius_link": "https://geni.us/mkBbse",
+            "amzn": "https://www.amazon.com/s?k=Growth%20Vaclav%20Smil"
+        }
+    ],
+    "chamath-palihapitiya": [
+        {
+            "title": "Liar's Poker",
+            "slug": "liar-s-poker",
+            "author": "Michael Lewis",
+            "recommended_by": [
+                "Chamath Palihapitiya",
+                "Tim Ferriss"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ee579f03142587837b347d7_6170zXsCsSL._SX333_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/liars-poker",
+            "amzn": "https://www.amazon.com/s?k=Liar%27s%20Poker%20Michael%20Lewis"
+        },
+        {
+            "title": "René Girard's Mimetic Theory",
+            "slug": "rene-girard-s-mimetic-theory",
+            "author": "Wolfgang Palaver",
+            "recommended_by": [
+                "Naval Ravikant",
+                "Chamath Palihapitiya"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5efa1a3cc2a4633385354289_51q0ytGUn3L._SX332_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/mimetic-theory",
+            "amzn": "https://www.amazon.com/s?k=Ren%C3%A9%20Girard%27s%20Mimetic%20Theory%20Wolfgang%20Palaver"
+        },
+        {
+            "title": "Adult Children of Alcoholics",
+            "slug": "adult-children-of-alcoholics",
+            "author": "Janet Geringer Woititz",
+            "recommended_by": [
+                "Chamath Palihapitiya"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ee579e946060773a9855ebc_51pO5TAIERL._SX321_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/adult-children",
+            "amzn": "https://www.amazon.com/s?k=Adult%20Children%20of%20Alcoholics%20Janet%20Geringer%20Woititz"
+        },
+        {
+            "title": "Americana: A 400-Year History of American Capitalism",
+            "slug": "americana-a-400-year-history-of-american-capitalism",
+            "author": "Bhu Srinivasan",
+            "recommended_by": [
+                "Chamath Palihapitiya"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f38911a7c4f151e24e4f582_51sF5PXcwBL._SX324_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/americana-400",
+            "amzn": "https://www.amazon.com/s?k=Americana%3A%20A%20400-Year%20History%20of%20American%20Capitalism%20Bhu%20Srinivasan"
+        },
+        {
+            "title": "Disruptor",
+            "slug": "disruptor",
+            "author": "Arwen Elys Dayton",
+            "recommended_by": [
+                "Chamath Palihapitiya"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ee60bb233f9c3570eb7cde9_51HIXAJiSL._SX330_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/disruptor",
+            "amzn": "https://www.amazon.com/s?k=Disruptor%20Arwen%20Elys%20Dayton"
+        },
+        {
+            "title": "Fermat's Enigma",
+            "slug": "fermat-s-enigma",
+            "author": "Simon Singh",
+            "recommended_by": [
+                "Chamath Palihapitiya"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ee57a005bcf322d23bb027f_51CWZhY0fqL._SX346_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/fermats-enigma",
+            "amzn": "https://www.amazon.com/s?k=Fermat%27s%20Enigma%20Simon%20Singh"
+        },
+        {
+            "title": "The Great Mental Models: General Thinking Concepts",
+            "slug": "the-great-mental-models-general-thinking-concepts",
+            "author": "Shane Parrish",
+            "recommended_by": [
+                "Chamath Palihapitiya"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f14b10f6b6abec9ed9c346a_41Gf-euAJL.jpeg",
+            "genius_link": "https://geni.us/great-mental-models",
+            "amzn": "https://www.amazon.com/s?k=The%20Great%20Mental%20Models%3A%20General%20Thinking%20Concepts%20Shane%20Parrish"
+        },
+        {
+            "title": "The Professor, the Banker, and the Suicide King",
+            "slug": "the-professor-the-banker-and-the-suicide-king",
+            "author": "Michael Craig",
+            "recommended_by": [
+                "Chamath Palihapitiya"
+            ],
+            "image": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5ee57a06f9db66a28da336f8_51xcj1NAzwL._SX331_BO1204203200_.jpeg",
+            "genius_link": "https://geni.us/professor-banker",
+            "amzn": "https://www.amazon.com/s?k=The%20Professor%2C%20the%20Banker%2C%20and%20the%20Suicide%20King%20Michael%20Craig"
+        }
+    ]
+}
